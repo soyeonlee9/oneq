@@ -4,8 +4,11 @@ https://nkfc8b6r7h.execute-api.ap-northeast-2.amazonaws.com/
 GetAccessToken
 ID token
 access token
+access token을 뭍히지 아니하는 유일한 함수
 
-
+GetMember
+없음
+{"Email":"ergtserd@gmail.com". "Name":"tshstr"}
 
 
 
